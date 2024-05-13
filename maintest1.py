@@ -4,7 +4,7 @@ from itertools import dropwhile, takewhile
 import array
 
 strUName="petfinderrs"
-strPWD="@P3tF1nd3r@"
+strPWD="XXXXXXX"
 
 ig=instaloader.Instaloader()
 ig.login(strUName, strPWD)
